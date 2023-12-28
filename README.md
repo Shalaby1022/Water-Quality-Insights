@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
 ## Overview
-This repository contains a spectacular data mining project focused on water quality analysis. The project involves advanced data cleaning, imputation, outlier handling, feature scaling, and the implementation of powerful machine learning models to predict water potability.
+This repository contains a data mining project focused on water quality analysis. The project involves advanced data cleaning, imputation, outlier handling, feature scaling, and the implementation of powerful machine learning models to predict water potability.
 
 ## Dataset
 The dataset used in this project is sourced from "water_potability.csv" and covers various water quality parameters.
